@@ -11,7 +11,7 @@ Link to the paper:
 https://www.researchgate.net/publication/372145837_Forest_Fire_Spread_Simulation_and_Fire_Extinguishing_Visualization_Research
 
 Group Number:
-6
+11
 
 Individual Submitter:
 23166005 Alvin Rahul Hore

@@ -2,13 +2,13 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1yWGj4ftcolt1RxC7n4UmJwUKbup8mufcuLp6ENlgxPY/edit#slide=id.p
+https://docs.google.com/presentation/d/1fa8z6_5wrh8CLfTsvUyt8JOIUbKAiDXIfwh6fgKhtBo/edit?usp=sharing
 
 Paper title:
-Forest Fire Spread Simulation and Fire ExtinguishingVisualization Research
+Phase-Resolved Wave Simulation over Isolated Seamount
 
 Link to the paper:
-https://www.researchgate.net/publication/372145837_Forest_Fire_Spread_Simulation_and_Fire_Extinguishing_Visualization_Research
+https://www.mdpi.com/2077-1312/11/9/1765?trk=public_post_main-feed-card-text
 
 Group Number:
 11
